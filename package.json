@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/jarouca/node-duck-duck-goose/issues"
   },
-  "homepage": "https://github.com/jarouca/node-duck-duck-goose#readme"
+  "homepage": "https://github.com/jarouca/node-duck-duck-goose#readme",
+  "dependencies": {
+    "lodash": "^4.17.4"
+  }
 }
