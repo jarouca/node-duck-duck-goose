@@ -1,3 +1,7 @@
+var _ = require('lodash');
+
+var duckduckGoose = require('./duckDuckGoose');
+
 var players = [
   { name: "Elise", playing: true },
   { name: "MLG", playing: true },

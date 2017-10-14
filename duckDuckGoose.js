@@ -1,3 +1,5 @@
+var _ = require('lodash');
+
 var duckDuckGoose = {
   play: function(players) {
     var goose = _.sample(players);
@@ -13,3 +15,5 @@ var duckDuckGoose = {
     }
   }
 };
+
+module.exports = duckDuckGoose;
