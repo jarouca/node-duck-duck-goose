@@ -1,0 +1,19 @@
+{
+  "name": "duck-duck-goose",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jarouca/node-duck-duck-goose.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jarouca/node-duck-duck-goose/issues"
+  },
+  "homepage": "https://github.com/jarouca/node-duck-duck-goose#readme"
+}
